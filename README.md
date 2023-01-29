@@ -1,5 +1,5 @@
 Olá, 
-Meu nome é Rafaela e sou iniciante na área de programação.
+meu nome é Rafaela e sou iniciante na área de programação.
 Irei cursar Análise e Desenvolvimento de Sistemas e atualmente tenho conhecimentos de HTML, CSS e um pouco de Python. Estou estudando persistentemente para me tornar uma programadora Full-Stack.
 
 
