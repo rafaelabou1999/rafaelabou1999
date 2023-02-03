@@ -1,5 +1,5 @@
 Hi, I'm Rafaela.
 --------------------------
+<img src="asx.gif" height="190">  ☕Currently studying JavaScript.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelabou1999&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
