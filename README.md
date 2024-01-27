@@ -1,9 +1,18 @@
-### Hi there 👋,
+<h4>Rafaela Bourdette - Desenvolvedora Front-End</h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=8500C6&random=false&width=435&lines=I'm+a+Mobile+and+Frontend+Developer+%F0%9F%98%86)](https://git.io/typing-svg)
+- 👩‍💻 Análise e Desenvolvimento de Sistemas(3º Período)
+- 🤓 Um ano de experiência na criação de sites
+- 🕵️‍♀️ Sempre em busca de novos conhecimentos 
 
-<a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,flutter" />
-</a>
+#### Tech Stack
 
- **(Skills / Learning)**
+<div>
+   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+   <img width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+</div>
+
+#### Você também me encontra em:
+<a href="https://www.linkedin.com/in/rafaela-bourdette-1b26a926a/?originalSubdomain=br"> <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
