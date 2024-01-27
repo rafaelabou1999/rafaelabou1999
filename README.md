@@ -1,6 +1,6 @@
 <h4>Rafaela Bourdette - Desenvolvedora Front-End</h2>
 
-- 👩‍💻 Análise e Desenvolvimento de Sistemas(3º Período)
+- 👩‍💻 IBMR - Análise e Desenvolvimento de Sistemas(3º Período)
 - 🤓 Um ano de experiência na criação de sites
 - 🕵️‍♀️ Sempre em busca de novos conhecimentos 
 
