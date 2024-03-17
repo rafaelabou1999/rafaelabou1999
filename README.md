@@ -1,20 +1,8 @@
-<h4>Rafaela Bourdette - Desenvolvedora Front-End</h2>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=rafaelabou1999&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+   Hello, my name is Rafaela Bourdette!
 
-- 👩‍💻 IBMR - Análise e Desenvolvimento de Sistemas(3º Período)
-- 🤓 Um ano de experiência na criação de sites
-- 🕵️‍♀️ Sempre em busca de novos conhecimentos 
+<img src="https://img.shields.io/static/v1?label=Overview&message=@rafaelabou1999&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-#### Tech Stack
-
-<div>
-   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-   <img width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />          
-   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />          
-   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />          
-</div>
-
-#### Você também me encontra em:
-<a href="https://www.linkedin.com/in/rafaela-bourdette-1b26a926a/?originalSubdomain=br"> <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+<p>⚪ HTML, CSS, JavaScript</p>
+<p>⚪ React.js</p>
+<p>⚪ UX Design</p>
