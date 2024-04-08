@@ -3,7 +3,7 @@
 ### Hello there 👋 <br>
  👩‍💻 Brazilian, 24 years old, Rio de Janeiro <br>
  🦾 Started my studies in programing last year   <br>
- 😁 Currently studying UX/UI Design @ Coderhouse and deepening my knowledge in JavaScript
+ 😁 Currently studying UX/UI Design and JavaScript
 
 Email: rafaelabourdette@gmail.com
  <br>
