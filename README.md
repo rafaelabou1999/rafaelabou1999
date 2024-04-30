@@ -5,7 +5,6 @@
  🦾 Started my studies in programing last year   <br>
  😁 Currently studying UX/UI Design and JavaScript
 
-Email: rafaelabourdette@gmail.com
  <br>
  
  ![HTML5](https://img.shields.io/badge/html5-EF3939?style=for-the-badge&logo=html5&logoColor=white)
