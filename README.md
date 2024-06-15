@@ -32,6 +32,6 @@ I started my studies in technology in 2023, and since then, I'm continuously imp
 <br> 
 
 ## <b>Contact me </b>😊
- <a href="https://twitter.com/](https://www.linkedin.com/in/rafaela-bourdette/">
+ <a href="https://www.linkedin.com/in/rafaela-bourdette/">
   <img border="0" alt="linkedin @rafaelabourdette" src="https://img.icons8.com/nolan/40/linkedin.png"/>
  </a>
