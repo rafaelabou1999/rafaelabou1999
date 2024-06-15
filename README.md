@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=rafaelabou1999&style=flat&color=blue)
-
 <h3>Hi!,  I'm Rafaela Bourdette  <img src=
 "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h3>
 <h4>Front-End Developer</h4> 
