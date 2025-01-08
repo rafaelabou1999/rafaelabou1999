@@ -1,2 +1,2 @@
-# Seja bem-vindo(a)! 👋
+# Welcome! 👋
 
