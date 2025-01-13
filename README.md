@@ -2,7 +2,7 @@
         
 <h2>Olá 👋</h2>
 
-<h3> 👨🏻‍💻 Sobre mim </h3>
+<h3> 👩🏻‍💻 Sobre mim </h3>
 
 - 🎓 &nbsp; Sou estudante de Análise e Desenvolvimento de Sistemas - Estácio
 - 🔭 &nbsp; Atualmente estou aprendendo PHP e MySQL
