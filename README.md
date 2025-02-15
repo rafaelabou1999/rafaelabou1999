@@ -9,7 +9,7 @@
 
 <h3>🛠 Tech Stack / Aprendendo...</h3>
 
-- 💻 &nbsp; **Linguagens e Ferramentas:** HTML | CSS | JavaScript | React(básico)
+- 💻 &nbsp; **Linguagens e Ferramentas:** HTML | CSS | JavaScript | React (básico)
 - 🌐 &nbsp; **Banco de Dados e Backend**: MySQL | PHP
 
 <br>
