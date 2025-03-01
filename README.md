@@ -1,16 +1,16 @@
 
         
-<h2>Olá 👋</h2>
+<h2>Hey 👋</h2>
 
-<h3> 👩🏻‍💻 Sobre mim </h3>
+<h3> 👩🏻‍💻 About me </h3>
 
-- 🎓 &nbsp; Sou estudante de Análise e Desenvolvimento de Sistemas - Estácio
-- 🔭 &nbsp; Atualmente, estou aprendendo PHP, MySQL e Vue
+- 🎓 &nbsp; Systems Analysis and Development student - Estácio
+- 🔭 &nbsp; Currently developing skills in both front-end and back-end 
 
-<h3>🛠 Tech Stack / Aprendendo...</h3>
+<h3>🛠 Learning</h3>
 
-- 💻 &nbsp; **Linguagens e Ferramentas:** HTML | CSS | JavaScript | React (básico)
-- 🌐 &nbsp; **Banco de Dados e Backend**: MySQL | PHP
+- 💻 &nbsp; **Languages and Tools:** HTML | CSS | JavaScript | React
+- 🌐 &nbsp; **Database and Backend**: SQL | PHP
 
 <br>
 
