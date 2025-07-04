@@ -14,7 +14,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelabou1999&layout=compact&text_color=daf7dc&bg_color=155535)](https://github.com/rafaelabou1999/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelabou1999&layout=compact&text_color=daf7dc&bg_color=155005)](https://github.com/rafaelabou1999/github-readme-stats)
 
 <h3> 🤝🏻 Contato </h3>
 
