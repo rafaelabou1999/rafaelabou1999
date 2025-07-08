@@ -1,23 +1,20 @@
+### Hello there 👋
+![React](https://img.shields.io/badge/react-6773E5.svg?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-6773E5.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-6773E5.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-6773E5.svg?style=for-the-badge&logo=csst&logoColor=white)
+![HTML](https://img.shields.io/badge/html5-6773E5.svg?style=for-the-badge&logo=html5t&logoColor=white)
+![PHP](https://img.shields.io/badge/php-6773E5.svg?style=for-the-badge&logo=phpt&logoColor=white)
 
-        
-<h2>Hey 👋</h2>
 
-<h3> 👩🏻‍💻 About me </h3>
 
-- 🎓 &nbsp; Systems Analysis and Development student - Estácio
-- 🔭 &nbsp; Currently developing skills in both front-end and back-end 
+- 💡 <i>Web Developer student </i>
 
-<h3>🛠 Learning</h3>
+- 🔭 <i>Currently learning React, TypeScript and PHP</i>
 
-- 💻 &nbsp; **Languages and Tools:** HTML | CSS | JavaScript | React
-- 🌐 &nbsp; **Database and Backend**: SQL | PHP
+- 🌱 <i>Graduating in System Analysis and Development</i>
 
-<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelabou1999&layout=compact)](https://github.com/rafaelabou1999/github-readme-stats)
 
-<h3> 🤝🏻 Contato </h3>
 
- <a href="https://www.linkedin.com/in/rafaela-bourdette/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+
