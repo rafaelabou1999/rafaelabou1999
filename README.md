@@ -8,7 +8,7 @@
 
 
 
-- 💡 <i>Web Developer student </i>
+- 💡 <i>Web development student </i>
 
 - 🔭 <i>Currently learning React, TypeScript and PHP</i>
 
