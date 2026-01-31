@@ -19,4 +19,6 @@ Hi there! I'm Rafaela Bourdette, a 26-year-old <b>Systems Analysis and Developme
 
 #### Contact
 <!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/rafaela-bourdette/)
+<a href="https://br.linkedin.com/in/rafaela-bourdette/" target="_blank">
+  <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin">
+</a>
