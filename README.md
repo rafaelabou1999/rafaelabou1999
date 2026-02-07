@@ -2,7 +2,7 @@
 # Hey there! :wave:
 
 <!--Introduction -->
-Hi there! I'm Rafaela Bourdette, a 26-year-old <b>Systems Analysis and Development</b> student. I’ve spent the last two years studying Front-end, and now I'm diving deep into the world of Back-end development to become a more versatile developer.
+Hi there! I'm Rafaela Bourdette, a 26-year-old <b>Systems Analysis and Development</b> student. I’ve acquired some knowledge in Front-end, and now I'm diving deep into the world of Back-end development to become a more versatile developer.
 
 🌱 <i>Currently Learning: Java and Spring Boot.</i>
 
@@ -22,3 +22,4 @@ Hi there! I'm Rafaela Bourdette, a 26-year-old <b>Systems Analysis and Developme
 <a href="https://br.linkedin.com/in/rafaela-bourdette/" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin">
 </a>
+
