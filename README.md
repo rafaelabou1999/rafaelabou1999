@@ -1,13 +1,51 @@
-  <h3 id="hi-there--im-danushka">Hi there 👋 I’m <a href="https://github.com/rafaelabou1999/">Rafaela!</a></h3>
-<h4 id="im-a-associate-software-engineer-at-acentura">I’m a Systems Analysis and Development student (4th semester)</h4>
-<h6 id="languages-i-use">Languages I'm studying</h6>
-<p>
-<img src="https://img.shields.io/badge/-HTML5-000000?style=flat&amp;logo=html5" alt="HTML5">
- <img src="https://img.shields.io/badge/-CSS3-000000?style=flat&amp;logo=css3" alt="CSS3">
-<img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&amp;logo=javascript" alt="JavaScript">
-<img src="https://img.shields.io/badge/-Java-000000?style=flat&amp;logo=java" alt="Java">
-<img src="https://img.shields.io/badge/-Python-000000?style=flat&amp;logo=python" alt="Python">
-<img src="https://img.shields.io/badge/-SQL-000000?style=flat&amp;logo=postgresql" alt="SQL"></p>
-<br></p>
-<hr>
+# 👩‍💻 Rafaela Bourdette
 
+🎓 System Analysis and Development Student  
+📍 Rio de Janeiro, Brazil  
+
+---
+
+## 🚀 About Me
+
+I'm a System Analysis and Development student focused on building solid foundations in software development and backend architecture.
+
+I started with frontend technologies and I'm currently deepening my knowledge in backend development, databases, and APIs.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- HTML  
+- CSS  
+- JavaScript  
+
+### Backend (learning)
+- Java  
+- Spring Boot  
+
+### Database
+- SQL (MySQL / PostgreSQL)
+
+---
+
+## 📚 Currently Learning
+
+- REST APIs with Spring Boot  
+- Database modeling and optimization  
+- Backend architecture and best practices  
+- Data structures and algorithms  
+
+---
+
+## 📂 Projects
+
+- 🔹 To-Do List API (Java + Spring Boot)  
+- 🔹 Frontend Web Projects (HTML, CSS, JS and React)  
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/rafaelabou1999  
+- LinkedIn: https://www.linkedin.com/in/rafaela-bourdette/
