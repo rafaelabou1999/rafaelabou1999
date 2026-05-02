@@ -5,14 +5,6 @@
 
 ---
 
-## 🚀 About Me
-
-I'm a System Analysis and Development student focused on building solid foundations in software development and backend architecture.
-
-I started with frontend technologies and I'm currently deepening my knowledge in backend development, databases, and APIs.
-
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend
