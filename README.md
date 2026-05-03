@@ -16,7 +16,7 @@
 - Java  
 - Spring Boot  
 
-### Database
+### Database (learning)
 - SQL (MySQL / PostgreSQL)
 
 ---
