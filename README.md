@@ -21,15 +21,6 @@
 
 ---
 
-## 📚 Currently Learning
-
-- REST APIs with Spring Boot  
-- Database modeling and optimization  
-- Backend architecture and best practices  
-- Data structures and algorithms  
-
----
-
 ## 📂 Projects
 
 - 🔹 To-Do List API and Help Desk System (Java + Spring Boot)  
