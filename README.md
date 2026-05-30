@@ -32,7 +32,7 @@
 
 ## 📂 Projects
 
-- 🔹 To-Do List API (Java + Spring Boot)  
+- 🔹 To-Do List API and Help Desk System (Java + Spring Boot)  
 - 🔹 Frontend Web Projects (HTML, CSS, JS, React, TypeScript)  
 
 ---
